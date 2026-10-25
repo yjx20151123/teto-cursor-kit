@@ -24,6 +24,16 @@
 
 全家福预览见 `preview/family_portrait.png`。
 
+### 鼠标使用效果图
+
+| 图 | 文件 | 内容 |
+| --- | --- | --- |
+| 桌面使用场景 | `preview/showcase_desktop.png` | 箭头/手型/文本光标在应用窗口里的真实效果 |
+| 十字光标实战 | `preview/showcase_crosshair.png` | Crosshair 在画布上的形态，蓝色标出热点（十字圆点） |
+| 全套总览 | `preview/showcase_gallery.png` | 9 个状态铺在桌面上的总览 |
+
+由 `src/make_showcase.py` 生成（`python make_showcase.py`）。
+
 ---
 
 ## 技术亮点（为什么不是“换个图标”）
